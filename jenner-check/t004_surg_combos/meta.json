@@ -1,0 +1,7 @@
+{
+  "bundle": "t004_surg_combos",
+  "source_file": "Surg SAS Code.sas",
+  "source_blob_sha": "f587213a3c3f65e6d4215bbdadb98ba0e63fee77",
+  "source_commit": "870642de8540014a312f7cfa415abe0f70062192",
+  "notes": "Surgical-procedure-combination analysis: RETAIN + FIRST./LAST.EVENT_DATE captures first/second procedure per date, then PROC FREQ of CONDX*CONDX2. ODS RTF omitted (renders to listing). SURGERIES sampled inline."
+}

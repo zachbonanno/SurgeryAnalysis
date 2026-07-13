@@ -1,0 +1,7 @@
+{
+  "bundle": "t005_means_ttest_deaths",
+  "source_file": "Surg SAS Code.sas",
+  "source_blob_sha": "f587213a3c3f65e6d4215bbdadb98ba0e63fee77",
+  "source_commit": "870642de8540014a312f7cfa415abe0f70062192",
+  "notes": "Mortality summary: deaths subset (OUTCOME=1), PROC FREQ by race, PROC MEANS of age at death by race/smoking, PROC TTEST age at death by smoking group. ODS RTF + graphical SGPLOT omitted (numeric procs render to listing). Data sampled inline."
+}

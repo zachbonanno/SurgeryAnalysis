@@ -1,0 +1,18 @@
+{
+  "_captured_at": "2026-07-13T08:14:21.110550Z",
+  "_captured_run_id": "r_17c309356d3a411da9d5b37ba3b0aa5a",
+  "status": "ok",
+  "exit_code": 0,
+  "log_contains": [
+    "NOTE: Wrote DEATHS (4 rows, 8 columns).",
+    "NOTE: PROC MEANS"
+  ],
+  "log_does_not_contain": [
+    "ERROR:",
+    "[JENNER-ERROR"
+  ],
+  "diagnostics": {
+    "parse_warnings": [],
+    "runtime_warnings": []
+  }
+}

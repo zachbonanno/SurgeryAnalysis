@@ -1,0 +1,18 @@
+{
+  "_captured_at": "2026-07-13T08:14:21.107530Z",
+  "_captured_run_id": "r_4f4f9b6cef074866aeaddd7d5e502ce6",
+  "status": "ok",
+  "exit_code": 0,
+  "log_contains": [
+    "NOTE: Wrote EVENT1_2 (12 rows, 9 columns).",
+    "NOTE: PROC TABULATE"
+  ],
+  "log_does_not_contain": [
+    "ERROR:",
+    "[JENNER-ERROR"
+  ],
+  "diagnostics": {
+    "parse_warnings": [],
+    "runtime_warnings": []
+  }
+}
