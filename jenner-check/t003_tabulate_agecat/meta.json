@@ -1,0 +1,7 @@
+{
+  "bundle": "t003_tabulate_agecat",
+  "source_file": "Surg SAS Code.sas",
+  "source_blob_sha": "f587213a3c3f65e6d4215bbdadb98ba0e63fee77",
+  "source_commit": "870642de8540014a312f7cfa415abe0f70062192",
+  "notes": "Age-category banding (8 AGECAT groups) + PROC FORMAT value maps + PROC TABULATE cross-tab of RACE by age at first surgery. ODS RTF destination omitted (renders to listing). Data sampled inline."
+}
